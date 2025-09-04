@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/university/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/university/index.xml" rel="self" type="application/rss+xml" />
+    <description>University</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>University</title>
+      <link>https://khaled-sammoura.github.io/en/tags/university/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The beginning of the semester brought new impressions and tasks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attended introductory lectures for the courses “Algorithms” and “Databases.”&lt;/li&gt;
+&lt;li&gt;Took part in a faculty organizational meeting where student research initiatives were discussed.&lt;/li&gt;
+&lt;li&gt;Became familiar with the Academia.edu platform for finding study materials.&lt;/li&gt;
+&lt;li&gt;Started working on a small project involving data processing from open sources.&lt;/li&gt;
+&lt;li&gt;Created a schedule for the fall semester and set academic priorities.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

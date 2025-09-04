@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/machine-learning/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Machine Learning</title>
+      <link>https://khaled-sammoura.github.io/en/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was dedicated to deepening my knowledge of machine learning and preparing for the start of the academic year.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked through basic algorithms for classification and regression.&lt;/li&gt;
+&lt;li&gt;Set up the Jupyter Notebook environment for academic projects.&lt;/li&gt;
+&lt;li&gt;Explored ResearchGate and organized a list of relevant articles.&lt;/li&gt;
+&lt;li&gt;Created a reading plan for September, including chapters from a textbook on probability theory.&lt;/li&gt;
+&lt;li&gt;Analyzed examples of Python applications in text data processing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

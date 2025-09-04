@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/learning/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Learning</title>
+      <link>https://khaled-sammoura.github.io/en/tags/learning/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I focused on preparing for the upcoming semester.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the fundamental principles of working with arrays and recursion in the “Algorithms and Data Structures” course.&lt;/li&gt;
+&lt;li&gt;Studied the basics of LaTeX for formatting mathematical texts and reports.&lt;/li&gt;
+&lt;li&gt;Explored the features of Mendeley for managing references.&lt;/li&gt;
+&lt;li&gt;Continued reading a research article on the application of neural networks in image processing.&lt;/li&gt;
+&lt;li&gt;Organized my study materials in digital format.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

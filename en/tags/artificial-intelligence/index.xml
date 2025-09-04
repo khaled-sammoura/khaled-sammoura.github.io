@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/artificial-intelligence/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Artificial Intelligence</title>
+      <link>https://khaled-sammoura.github.io/en/tags/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>The Future of Artificial Intelligence in Education</title>
+      <link>https://khaled-sammoura.github.io/en/publication/05/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Artificial Intelligence (AI) is gradually becoming an integral part of the educational process. It is applied in adaptive learning, automated analysis of student performance data, and the personalization of educational trajectories.&lt;/p&gt;
+&lt;h2 id=&#34;key-areas-of-application&#34;&gt;Key Areas of Application&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adaptive Learning Systems&lt;/strong&gt;&lt;br&gt;
+Use machine learning algorithms to tailor individual assignments and learning materials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automated Knowledge Assessment&lt;/strong&gt;&lt;br&gt;
+Includes testing, essay evaluation, and assessment of argument quality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Educational Data Analytics&lt;/strong&gt;&lt;br&gt;
+The collection and interpretation of learning performance data allows instructors to adjust courses in a timely manner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Intelligent Assistants&lt;/strong&gt;&lt;br&gt;
+Virtual assistants help students navigate large volumes of information and organize their learning process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Personalization of the learning process.&lt;/li&gt;
+&lt;li&gt;Reduced workload for instructors.&lt;/li&gt;
+&lt;li&gt;Ability to analyze large volumes of data.&lt;/li&gt;
+&lt;li&gt;Increased accessibility of quality education.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ethical-challenges&#34;&gt;Ethical Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring the confidentiality of student data.&lt;/li&gt;
+&lt;li&gt;Preventing overreliance on automated solutions.&lt;/li&gt;
+&lt;li&gt;Guaranteeing equal access to educational technologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The future of education is closely linked to the integration of artificial intelligence. However, the success of its implementation depends not only on technological solutions but also on ethical standards and the willingness of both instructors and students to adapt to new conditions.&lt;/p&gt;
+&lt;p&gt;AI does not replace teachers but becomes an important tool that contributes to creating a more flexible and effective educational environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/research/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Research</title>
+      <link>https://khaled-sammoura.github.io/en/tags/research/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://khaled-sammoura.github.io/en/project/hugo/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;A modern researcher requires not only publications and conference participation but also a well-structured online presentation of their achievements. A personal website makes it possible to organize information about education, research interests, projects, and publications. One of the most convenient tools for this purpose is &lt;strong&gt;Hugo Academic&lt;/strong&gt; — a theme for the Hugo static site generator specifically designed for the academic community.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-hugo-academic&#34;&gt;Advantages of Hugo Academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Integration with profiles such as Google Scholar, ORCID, ResearchGate, and others.&lt;/li&gt;
+&lt;li&gt;Flexible structure for showcasing publications, projects, awards, and teaching activities.&lt;/li&gt;
+&lt;li&gt;Easy configuration and responsive design that displays correctly on various devices.&lt;/li&gt;
+&lt;li&gt;Markdown support for writing publications and notes.&lt;/li&gt;
+&lt;li&gt;Ability to maintain a blog in an academic style.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;steps-to-create-a-website&#34;&gt;Steps to Create a Website&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and download the Academic theme.&lt;/li&gt;
+&lt;li&gt;Configure the basic settings: name, description, and menu structure.&lt;/li&gt;
+&lt;li&gt;Add a profile with contact information and links to academic resources.&lt;/li&gt;
+&lt;li&gt;Import publications from BibTeX or add them manually in Markdown format.&lt;/li&gt;
+&lt;li&gt;Add sections for projects, courses, and news.&lt;/li&gt;
+&lt;li&gt;Set up integration with analytics systems and social media.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Using Hugo Academic provides researchers with a convenient way to systematize and present their achievements to a wide audience. Such a website can serve not only as a portfolio but also as a tool for building professional connections and promoting scientific results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

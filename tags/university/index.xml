@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/university/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/university/index.xml" rel="self" type="application/rss+xml" />
+    <description>University</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>University</title>
+      <link>https://khaled-sammoura.github.io/tags/university/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/05/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Начало семестра принесло новые впечатления и задачи.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Посетил вводные лекции по курсам «Алгоритмы» и «Базы данных».&lt;/li&gt;
+&lt;li&gt;Участвовал в организационном собрании факультета, где обсудили научные студенческие инициативы.&lt;/li&gt;
+&lt;li&gt;Ознакомился с платформой Academia.edu для поиска учебных материалов.&lt;/li&gt;
+&lt;li&gt;Начал работу над небольшим проектом по обработке данных из открытых источников.&lt;/li&gt;
+&lt;li&gt;Составил расписание на осенний семестр и распределил учебные приоритеты.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

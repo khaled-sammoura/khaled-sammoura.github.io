@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/computer-science/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computer Science</title>
+      <link>https://khaled-sammoura.github.io/tags/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/02/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя прошла продуктивно, с упором на развитие практических навыков.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Решил несколько задач по динамическому программированию.&lt;/li&gt;
+&lt;li&gt;Разобрался с работой Git и оформлением проектов на GitHub.&lt;/li&gt;
+&lt;li&gt;Просмотрел лекции по основам теории графов и выполнил практические задания.&lt;/li&gt;
+&lt;li&gt;Проанализировал статьи из eLibrary по теме «алгоритмы оптимизации».&lt;/li&gt;
+&lt;li&gt;Начал планировать возможные темы для будущих курсовых работ.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

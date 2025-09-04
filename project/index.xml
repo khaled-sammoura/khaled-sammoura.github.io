@@ -1,39 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Hugo Academic CV Theme</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/project/</link>
+      <atom:link href="https://khaled-sammoura.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://khaled-sammoura.github.io/project/</link>
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://example.com/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://example.com/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Личный сайт учёного с Hugo Academic</title>
+      <link>https://khaled-sammoura.github.io/project/hugo/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Современный исследователь нуждается не только в публикациях и участии в конференциях, но и в качественной онлайн-презентации своих достижений. Личный сайт позволяет структурировать информацию об образовании, научных интересах, проектах и публикациях. Одним из наиболее удобных инструментов для этого является &lt;strong&gt;Hugo Academic&lt;/strong&gt; — тема для статического генератора сайтов Hugo, специально созданная для академической среды.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-hugo-academic&#34;&gt;Преимущества Hugo Academic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Возможность интеграции с профилями Google Scholar, ORCID, ResearchGate и другими платформами.&lt;/li&gt;
+&lt;li&gt;Гибкая структура для отображения публикаций, проектов, наград и преподавательской деятельности.&lt;/li&gt;
+&lt;li&gt;Простая настройка и адаптивный дизайн, позволяющий корректно отображать сайт на разных устройствах.&lt;/li&gt;
+&lt;li&gt;Поддержка Markdown для оформления публикаций и заметок.&lt;/li&gt;
+&lt;li&gt;Возможность ведения блога в академическом стиле.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;этапы-создания-сайта&#34;&gt;Этапы создания сайта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Установка Hugo и скачивание темы Academic.&lt;/li&gt;
+&lt;li&gt;Настройка базовой конфигурации: имя, описание, структура меню.&lt;/li&gt;
+&lt;li&gt;Добавление профиля с контактной информацией и ссылками на академические ресурсы.&lt;/li&gt;
+&lt;li&gt;Импорт публикаций из BibTeX или вручную в формате Markdown.&lt;/li&gt;
+&lt;li&gt;Размещение разделов с проектами, курсами и новостями.&lt;/li&gt;
+&lt;li&gt;Настройка интеграции с системами аналитики и социальными сетями.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic предоставляет исследователю удобный способ систематизировать и представить свои достижения широкой аудитории. Такой сайт может служить не только портфолио, но и инструментом для построения профессиональных связей и популяризации научных результатов.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

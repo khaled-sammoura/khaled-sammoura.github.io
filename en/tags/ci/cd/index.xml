@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/ci/cd/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI/CD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>CI/CD</title>
+      <link>https://khaled-sammoura.github.io/en/tags/ci/cd/</link>
+    </image>
+    
+    <item>
+      <title>Continuous Integration and Deployment (CI/CD)</title>
+      <link>https://khaled-sammoura.github.io/en/publication/01/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Modern software development requires both high delivery speed and reliability. The &lt;strong&gt;CI/CD&lt;/strong&gt; (Continuous Integration / Continuous Deployment) approach addresses these needs by automating the processes of building, testing, and deploying software products.&lt;/p&gt;
+&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — the practice of frequently merging developers’ code into the main branch with automated testing and validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Delivery (CD)&lt;/strong&gt; — automation of preparing the application for deployment, including testing, artifact building, and validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment (CD)&lt;/strong&gt; — an automated process of delivering changes into the production environment once all checks are successfully passed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages-of-cicd&#34;&gt;Advantages of CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduction of errors through automated testing.&lt;/li&gt;
+&lt;li&gt;Decreased time between writing code and its use by end users.&lt;/li&gt;
+&lt;li&gt;Improved product quality through rapid feedback.&lt;/li&gt;
+&lt;li&gt;Streamlined collaboration within the development team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cicd-tools&#34;&gt;CI/CD Tools&lt;/h2&gt;
+&lt;p&gt;Some of the most widely used tools include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — integrated into the GitHub ecosystem to automate workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — built-in automation features within GitLab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — one of the earliest and most flexible tools for CI/CD orchestration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; and &lt;strong&gt;Travis CI&lt;/strong&gt; — cloud-based solutions for build and test automation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD has become a standard in modern software development. Its implementation allows teams to adapt more quickly to changing requirements and deliver higher-quality products.&lt;/p&gt;
+&lt;p&gt;In the future, the development of CI/CD is expected to integrate machine learning methods for test optimization, error prediction, and system resilience enhancement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

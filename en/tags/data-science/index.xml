@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/data-science/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Data Science</title>
+      <link>https://khaled-sammoura.github.io/en/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I focused on learning data analysis tools and mathematical foundations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the basics of linear algebra, paying special attention to working with matrices.&lt;/li&gt;
+&lt;li&gt;Studied basic operations in the NumPy library.&lt;/li&gt;
+&lt;li&gt;Became familiar with the principles of version control systems for scientific projects.&lt;/li&gt;
+&lt;li&gt;Analyzed the structure of publications on Google Scholar to identify relevant sources.&lt;/li&gt;
+&lt;li&gt;Prepared a brief outline on the introduction to machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

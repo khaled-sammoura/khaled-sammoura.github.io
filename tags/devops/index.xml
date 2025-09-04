@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/devops/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <description>DevOps</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>DevOps</title>
+      <link>https://khaled-sammoura.github.io/tags/devops/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывная интеграция и развертывание (CI/CD)</title>
+      <link>https://khaled-sammoura.github.io/publication/01/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/publication/01/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Современная разработка программного обеспечения требует высокой скорости поставки и надежности. Подход &lt;strong&gt;CI/CD&lt;/strong&gt; (Continuous Integration / Continuous Deployment) решает эти задачи за счет автоматизации процессов сборки, тестирования и развертывания программных продуктов.&lt;/p&gt;
+&lt;h2 id=&#34;основные-понятия&#34;&gt;Основные понятия&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывная интеграция (CI)&lt;/strong&gt; — практика частого объединения кода разработчиков в основную ветку с автоматическим запуском тестов и проверок.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывная доставка (CD – Continuous Delivery)&lt;/strong&gt; — автоматизация подготовки приложения к развертыванию, включая тестирование, сборку артефактов и валидацию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Непрерывное развертывание (CD – Continuous Deployment)&lt;/strong&gt; — автоматический процесс доставки изменений в рабочее окружение после успешного прохождения всех проверок.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-cicd&#34;&gt;Преимущества CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Уменьшение количества ошибок благодаря автоматическому тестированию.&lt;/li&gt;
+&lt;li&gt;Сокращение времени между написанием кода и его использованием конечным пользователем.&lt;/li&gt;
+&lt;li&gt;Повышение качества продукта за счет быстрой обратной связи.&lt;/li&gt;
+&lt;li&gt;Оптимизация взаимодействия внутри команды разработки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;инструменты-cicd&#34;&gt;Инструменты CI/CD&lt;/h2&gt;
+&lt;p&gt;Наиболее популярные инструменты:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — интеграция с экосистемой GitHub для автоматизации рабочих процессов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — встроенные возможности автоматизации в GitLab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — один из первых и наиболее гибких инструментов для организации CI/CD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; и &lt;strong&gt;Travis CI&lt;/strong&gt; — облачные решения для автоматизации сборки и тестирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;CI/CD становится стандартом в современной разработке. Его внедрение позволяет командам быстрее адаптироваться к изменяющимся требованиям и поставлять более качественные программные продукты.&lt;/p&gt;
+&lt;p&gt;В перспективе развитие CI/CD связано с применением методов машинного обучения для оптимизации тестирования, прогнозирования ошибок и повышения устойчивости систем.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

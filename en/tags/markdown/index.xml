@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/markdown/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://khaled-sammoura.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://khaled-sammoura.github.io/en/publication/02/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are simplified systems for text formatting that allow authors to focus on content while minimizing formatting overhead. Their main feature is a simple syntactic structure and ease of use in environments where speed of content creation and publication is important.&lt;/p&gt;
+&lt;h2 id=&#34;key-representatives&#34;&gt;Key Representatives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;br&gt;
+The most popular lightweight markup language. It is used for writing documentation, notes, academic blogs, and teaching materials. It is characterized by minimalist syntax and the ability to convert into HTML, PDF, and other formats.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt;&lt;br&gt;
+Widely used in the Python ecosystem, particularly for library documentation. It supports advanced text structuring features and integrates with tools such as Sphinx.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Textile&lt;/strong&gt;&lt;br&gt;
+One of the earliest markup languages, often used in blogging platforms. Although less common today, it can still be found in some content management systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Org-mode&lt;/strong&gt;&lt;br&gt;
+A markup language within the Emacs ecosystem, oriented toward note-taking, planning, and exporting content to various formats.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax and ease of learning.&lt;/li&gt;
+&lt;li&gt;Support for conversion into multiple formats (HTML, PDF, DOCX).&lt;/li&gt;
+&lt;li&gt;Convenient for collaborative projects, particularly when combined with version control systems.&lt;/li&gt;
+&lt;li&gt;Integration with academic tools (for example, using Markdown with Pandoc to prepare papers).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;limitations&#34;&gt;Limitations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Limited functionality compared to full-fledged markup languages such as HTML or LaTeX.&lt;/li&gt;
+&lt;li&gt;For complex academic texts (mathematical formulas, complex tables), additional packages or extensions are often required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages play a significant role in academic and professional practice. They provide a balance between convenience and functionality, making them versatile tools for writing academic notes, documentation, and teaching materials. Their use contributes to more efficient work with texts in a digital environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

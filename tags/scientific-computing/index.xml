@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Computing | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/scientific-computing/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/scientific-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Scientific Computing</title>
+      <link>https://khaled-sammoura.github.io/tags/scientific-computing/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://khaled-sammoura.github.io/publication/04/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/publication/04/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Научное программирование является ключевым инструментом современной исследовательской деятельности. Оно позволяет моделировать процессы, проводить вычислительные эксперименты и анализировать большие массивы данных. Выбор языка зависит от задач, стоящих перед исследователем, а также от области применения — физики, биоинформатики, инженерии или анализа данных.&lt;/p&gt;
+&lt;h2 id=&#34;основные-языки-научного-программирования&#34;&gt;Основные языки научного программирования&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fortran&lt;/strong&gt;&lt;br&gt;
+Один из старейших языков, остаётся востребованным в численных расчётах, моделировании физических процессов и инженерных задачах. Отличается высокой производительностью.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C и C++&lt;/strong&gt;&lt;br&gt;
+Используются в областях, где критична скорость выполнения программ. Подходят для создания симуляторов, библиотек для научных вычислений и высокопроизводительных систем.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;br&gt;
+Современный универсальный язык с широким набором библиотек (NumPy, SciPy, Pandas, TensorFlow). Применяется для анализа данных, машинного обучения, биоинформатики и автоматизации научных задач.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;br&gt;
+Специализированный язык для статистики и анализа данных. Часто используется в социальных науках, экономике и биологии.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;br&gt;
+Новый язык, ориентированный на высокопроизводительные вычисления и научные исследования. Объединяет простоту синтаксиса Python с быстродействием C.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;br&gt;
+Распространённый инструмент для инженерных расчётов, обработки сигналов и матриц. Используется в академии и промышленности.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;критерии-выбора-языка&#34;&gt;Критерии выбора языка&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Производительность&lt;/strong&gt; — важна для моделирования сложных систем.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Наличие библиотек&lt;/strong&gt; — определяет возможности быстрого решения задач.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Простота освоения&lt;/strong&gt; — влияет на скорость обучения студентов и исследователей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка сообщества&lt;/strong&gt; — гарантирует доступ к документации и примерам.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Языки научного программирования формируют основу вычислительных исследований. Их грамотное использование позволяет ускорять научные открытия, создавать точные модели и эффективно обрабатывать большие массивы данных. В будущем ожидается рост популярности Julia и дальнейшая интеграция Python в смежные дисциплины.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

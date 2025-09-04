@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/tools/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Tools</title>
+      <link>https://khaled-sammoura.github.io/en/tags/tools/</link>
+    </image>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://khaled-sammoura.github.io/en/publication/03/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Presentations are an essential tool of academic and professional communication. They make it possible to effectively visualize key ideas, structure material, and maintain audience engagement. The right choice of tools and formatting methodology significantly enhances the quality of a talk.&lt;/p&gt;
+&lt;h2 id=&#34;main-tools&#34;&gt;Main Tools&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt;&lt;br&gt;
+The most widely used tool for preparing presentations, offering a broad range of templates and features.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX Beamer&lt;/strong&gt;&lt;br&gt;
+A popular solution in the academic community. It provides a strict structure, high-quality typography, and support for mathematical formulas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Google Slides&lt;/strong&gt;&lt;br&gt;
+A cloud-based service that enables collaborative work on presentations and ensures quick access to materials from any device.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reveal.js and Marp&lt;/strong&gt;&lt;br&gt;
+Modern tools for creating presentations based on Markdown. They support HTML export and are convenient for developers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;content-recommendations&#34;&gt;Content Recommendations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Each slide should convey a single main idea.&lt;/li&gt;
+&lt;li&gt;Text should be minimized, favoring key points.&lt;/li&gt;
+&lt;li&gt;Visualizations (graphs, charts, images) should be accompanied by explanations.&lt;/li&gt;
+&lt;li&gt;A consistent style and color scheme improve comprehension.&lt;/li&gt;
+&lt;li&gt;Audience specifics matter: for academic contexts, the focus should be on facts and research outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages-of-the-academic-approach&#34;&gt;Advantages of the Academic Approach&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear structure that reflects research logic.&lt;/li&gt;
+&lt;li&gt;Proper citation and reference formatting support.&lt;/li&gt;
+&lt;li&gt;Integration of mathematical and technical content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating presentations is not only a technical process but also a form of scientific expression. The use of appropriate tools and methodological principles helps make a talk more persuasive and informative, while also increasing its value for an academic audience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

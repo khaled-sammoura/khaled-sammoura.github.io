@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/publication/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://khaled-sammoura.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>https://khaled-sammoura.github.io/en/publication/04/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a key tool in modern research. It enables process modeling, computational experiments, and the analysis of large datasets. The choice of language depends on the researcher’s objectives as well as the field of application—physics, bioinformatics, engineering, or data analysis.&lt;/p&gt;
+&lt;h2 id=&#34;major-scientific-programming-languages&#34;&gt;Major Scientific Programming Languages&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fortran&lt;/strong&gt;&lt;br&gt;
+One of the oldest languages, still in demand for numerical computations, physical process modeling, and engineering tasks. Known for its high performance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C and C++&lt;/strong&gt;&lt;br&gt;
+Used in fields where execution speed is critical. Suitable for building simulators, scientific computing libraries, and high-performance systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt;&lt;br&gt;
+A modern general-purpose language with a wide range of libraries (NumPy, SciPy, Pandas, TensorFlow). Applied in data analysis, machine learning, bioinformatics, and scientific task automation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;br&gt;
+A specialized language for statistics and data analysis. Widely used in social sciences, economics, and biology.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;br&gt;
+A newer language designed for high-performance computing and scientific research. Combines Python’s ease of use with the speed of C.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MATLAB&lt;/strong&gt;&lt;br&gt;
+A common tool for engineering calculations, signal processing, and matrix operations. Extensively used in both academia and industry.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;criteria-for-choosing-a-language&#34;&gt;Criteria for Choosing a Language&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt; — essential for modeling complex systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Library availability&lt;/strong&gt; — determines the ease of solving tasks efficiently.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ease of learning&lt;/strong&gt; — affects how quickly students and researchers can adopt it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community support&lt;/strong&gt; — ensures access to documentation and examples.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages form the foundation of computational research. Their effective use accelerates scientific discovery, enables precise modeling, and facilitates the processing of large datasets. In the future, Julia is expected to grow in popularity, while Python will continue expanding into related disciplines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Future of Artificial Intelligence in Education</title>
+      <link>https://khaled-sammoura.github.io/en/publication/05/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Artificial Intelligence (AI) is gradually becoming an integral part of the educational process. It is applied in adaptive learning, automated analysis of student performance data, and the personalization of educational trajectories.&lt;/p&gt;
+&lt;h2 id=&#34;key-areas-of-application&#34;&gt;Key Areas of Application&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adaptive Learning Systems&lt;/strong&gt;&lt;br&gt;
+Use machine learning algorithms to tailor individual assignments and learning materials.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Automated Knowledge Assessment&lt;/strong&gt;&lt;br&gt;
+Includes testing, essay evaluation, and assessment of argument quality.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Educational Data Analytics&lt;/strong&gt;&lt;br&gt;
+The collection and interpretation of learning performance data allows instructors to adjust courses in a timely manner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Intelligent Assistants&lt;/strong&gt;&lt;br&gt;
+Virtual assistants help students navigate large volumes of information and organize their learning process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Personalization of the learning process.&lt;/li&gt;
+&lt;li&gt;Reduced workload for instructors.&lt;/li&gt;
+&lt;li&gt;Ability to analyze large volumes of data.&lt;/li&gt;
+&lt;li&gt;Increased accessibility of quality education.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ethical-challenges&#34;&gt;Ethical Challenges&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ensuring the confidentiality of student data.&lt;/li&gt;
+&lt;li&gt;Preventing overreliance on automated solutions.&lt;/li&gt;
+&lt;li&gt;Guaranteeing equal access to educational technologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The future of education is closely linked to the integration of artificial intelligence. However, the success of its implementation depends not only on technological solutions but also on ethical standards and the willingness of both instructors and students to adapt to new conditions.&lt;/p&gt;
+&lt;p&gt;AI does not replace teachers but becomes an important tool that contributes to creating a more flexible and effective educational environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Presentations</title>
+      <link>https://khaled-sammoura.github.io/en/publication/03/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Presentations are an essential tool of academic and professional communication. They make it possible to effectively visualize key ideas, structure material, and maintain audience engagement. The right choice of tools and formatting methodology significantly enhances the quality of a talk.&lt;/p&gt;
+&lt;h2 id=&#34;main-tools&#34;&gt;Main Tools&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Microsoft PowerPoint&lt;/strong&gt;&lt;br&gt;
+The most widely used tool for preparing presentations, offering a broad range of templates and features.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LaTeX Beamer&lt;/strong&gt;&lt;br&gt;
+A popular solution in the academic community. It provides a strict structure, high-quality typography, and support for mathematical formulas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Google Slides&lt;/strong&gt;&lt;br&gt;
+A cloud-based service that enables collaborative work on presentations and ensures quick access to materials from any device.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reveal.js and Marp&lt;/strong&gt;&lt;br&gt;
+Modern tools for creating presentations based on Markdown. They support HTML export and are convenient for developers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;content-recommendations&#34;&gt;Content Recommendations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Each slide should convey a single main idea.&lt;/li&gt;
+&lt;li&gt;Text should be minimized, favoring key points.&lt;/li&gt;
+&lt;li&gt;Visualizations (graphs, charts, images) should be accompanied by explanations.&lt;/li&gt;
+&lt;li&gt;A consistent style and color scheme improve comprehension.&lt;/li&gt;
+&lt;li&gt;Audience specifics matter: for academic contexts, the focus should be on facts and research outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages-of-the-academic-approach&#34;&gt;Advantages of the Academic Approach&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Clear structure that reflects research logic.&lt;/li&gt;
+&lt;li&gt;Proper citation and reference formatting support.&lt;/li&gt;
+&lt;li&gt;Integration of mathematical and technical content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Creating presentations is not only a technical process but also a form of scientific expression. The use of appropriate tools and methodological principles helps make a talk more persuasive and informative, while also increasing its value for an academic audience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Markup Languages</title>
+      <link>https://khaled-sammoura.github.io/en/publication/02/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages are simplified systems for text formatting that allow authors to focus on content while minimizing formatting overhead. Their main feature is a simple syntactic structure and ease of use in environments where speed of content creation and publication is important.&lt;/p&gt;
+&lt;h2 id=&#34;key-representatives&#34;&gt;Key Representatives&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;br&gt;
+The most popular lightweight markup language. It is used for writing documentation, notes, academic blogs, and teaching materials. It is characterized by minimalist syntax and the ability to convert into HTML, PDF, and other formats.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt;&lt;br&gt;
+Widely used in the Python ecosystem, particularly for library documentation. It supports advanced text structuring features and integrates with tools such as Sphinx.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Textile&lt;/strong&gt;&lt;br&gt;
+One of the earliest markup languages, often used in blogging platforms. Although less common today, it can still be found in some content management systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Org-mode&lt;/strong&gt;&lt;br&gt;
+A markup language within the Emacs ecosystem, oriented toward note-taking, planning, and exporting content to various formats.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple syntax and ease of learning.&lt;/li&gt;
+&lt;li&gt;Support for conversion into multiple formats (HTML, PDF, DOCX).&lt;/li&gt;
+&lt;li&gt;Convenient for collaborative projects, particularly when combined with version control systems.&lt;/li&gt;
+&lt;li&gt;Integration with academic tools (for example, using Markdown with Pandoc to prepare papers).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;limitations&#34;&gt;Limitations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Limited functionality compared to full-fledged markup languages such as HTML or LaTeX.&lt;/li&gt;
+&lt;li&gt;For complex academic texts (mathematical formulas, complex tables), additional packages or extensions are often required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Lightweight markup languages play a significant role in academic and professional practice. They provide a balance between convenience and functionality, making them versatile tools for writing academic notes, documentation, and teaching materials. Their use contributes to more efficient work with texts in a digital environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration and Deployment (CI/CD)</title>
+      <link>https://khaled-sammoura.github.io/en/publication/01/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Modern software development requires both high delivery speed and reliability. The &lt;strong&gt;CI/CD&lt;/strong&gt; (Continuous Integration / Continuous Deployment) approach addresses these needs by automating the processes of building, testing, and deploying software products.&lt;/p&gt;
+&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — the practice of frequently merging developers’ code into the main branch with automated testing and validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Delivery (CD)&lt;/strong&gt; — automation of preparing the application for deployment, including testing, artifact building, and validation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment (CD)&lt;/strong&gt; — an automated process of delivering changes into the production environment once all checks are successfully passed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advantages-of-cicd&#34;&gt;Advantages of CI/CD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduction of errors through automated testing.&lt;/li&gt;
+&lt;li&gt;Decreased time between writing code and its use by end users.&lt;/li&gt;
+&lt;li&gt;Improved product quality through rapid feedback.&lt;/li&gt;
+&lt;li&gt;Streamlined collaboration within the development team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cicd-tools&#34;&gt;CI/CD Tools&lt;/h2&gt;
+&lt;p&gt;Some of the most widely used tools include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt; — integrated into the GitHub ecosystem to automate workflows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitLab CI/CD&lt;/strong&gt; — built-in automation features within GitLab.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jenkins&lt;/strong&gt; — one of the earliest and most flexible tools for CI/CD orchestration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CircleCI&lt;/strong&gt; and &lt;strong&gt;Travis CI&lt;/strong&gt; — cloud-based solutions for build and test automation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD has become a standard in modern software development. Its implementation allows teams to adapt more quickly to changing requirements and deliver higher-quality products.&lt;/p&gt;
+&lt;p&gt;In the future, the development of CI/CD is expected to integrate machine learning methods for test optimization, error prediction, and system resilience enhancement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

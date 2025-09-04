@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/data-science/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Data Science</title>
+      <link>https://khaled-sammoura.github.io/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/03/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Сфокусировался на освоении инструментов анализа данных и математического аппарата.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Повторил основы линейной алгебры, уделив внимание работе с матрицами.&lt;/li&gt;
+&lt;li&gt;Изучил базовые операции в библиотеке NumPy.&lt;/li&gt;
+&lt;li&gt;Ознакомился с принципами работы систем управления версиями для научных проектов.&lt;/li&gt;
+&lt;li&gt;Проанализировал структуру публикаций на Google Scholar для поиска релевантных источников.&lt;/li&gt;
+&lt;li&gt;Подготовил краткий конспект по введению в машинное обучение.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

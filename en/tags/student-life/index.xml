@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/student-life/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Life</title>
+      <link>https://khaled-sammoura.github.io/en/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;The beginning of the semester brought new impressions and tasks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Attended introductory lectures for the courses “Algorithms” and “Databases.”&lt;/li&gt;
+&lt;li&gt;Took part in a faculty organizational meeting where student research initiatives were discussed.&lt;/li&gt;
+&lt;li&gt;Became familiar with the Academia.edu platform for finding study materials.&lt;/li&gt;
+&lt;li&gt;Started working on a small project involving data processing from open sources.&lt;/li&gt;
+&lt;li&gt;Created a schedule for the fall semester and set academic priorities.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was dedicated to deepening my knowledge of machine learning and preparing for the start of the academic year.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked through basic algorithms for classification and regression.&lt;/li&gt;
+&lt;li&gt;Set up the Jupyter Notebook environment for academic projects.&lt;/li&gt;
+&lt;li&gt;Explored ResearchGate and organized a list of relevant articles.&lt;/li&gt;
+&lt;li&gt;Created a reading plan for September, including chapters from a textbook on probability theory.&lt;/li&gt;
+&lt;li&gt;Analyzed examples of Python applications in text data processing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I focused on learning data analysis tools and mathematical foundations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the basics of linear algebra, paying special attention to working with matrices.&lt;/li&gt;
+&lt;li&gt;Studied basic operations in the NumPy library.&lt;/li&gt;
+&lt;li&gt;Became familiar with the principles of version control systems for scientific projects.&lt;/li&gt;
+&lt;li&gt;Analyzed the structure of publications on Google Scholar to identify relevant sources.&lt;/li&gt;
+&lt;li&gt;Prepared a brief outline on the introduction to machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was productive, with a focus on developing practical skills.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solved several problems in dynamic programming.&lt;/li&gt;
+&lt;li&gt;Learned how Git works and set up project repositories on GitHub.&lt;/li&gt;
+&lt;li&gt;Watched lectures on the basics of graph theory and completed practical exercises.&lt;/li&gt;
+&lt;li&gt;Analyzed articles from eLibrary on the topic of “optimization algorithms.”&lt;/li&gt;
+&lt;li&gt;Started planning potential topics for future coursework.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week I focused on preparing for the upcoming semester.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed the fundamental principles of working with arrays and recursion in the “Algorithms and Data Structures” course.&lt;/li&gt;
+&lt;li&gt;Studied the basics of LaTeX for formatting mathematical texts and reports.&lt;/li&gt;
+&lt;li&gt;Explored the features of Mendeley for managing references.&lt;/li&gt;
+&lt;li&gt;Continued reading a research article on the application of neural networks in image processing.&lt;/li&gt;
+&lt;li&gt;Organized my study materials in digital format.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

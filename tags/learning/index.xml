@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/learning/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Learning</title>
+      <link>https://khaled-sammoura.github.io/tags/learning/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе сосредоточился на подготовке к предстоящему семестру.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Повторил основные принципы работы с массивами и рекурсией в курсе «Алгоритмы и структуры данных».&lt;/li&gt;
+&lt;li&gt;Изучил основы LaTeX для оформления математических текстов и отчётов.&lt;/li&gt;
+&lt;li&gt;Ознакомился с возможностями Mendeley для управления источниками литературы.&lt;/li&gt;
+&lt;li&gt;Продолжил чтение научной статьи о применении нейронных сетей в обработке изображений.&lt;/li&gt;
+&lt;li&gt;Систематизировал свои учебные материалы в цифровом формате.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

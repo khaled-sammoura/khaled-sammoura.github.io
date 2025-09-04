@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | Мой сайт</title>
+    <link>https://khaled-sammoura.github.io/tags/student-life/</link>
+      <atom:link href="https://khaled-sammoura.github.io/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Student Life</title>
+      <link>https://khaled-sammoura.github.io/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/05/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/05/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Начало семестра принесло новые впечатления и задачи.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Посетил вводные лекции по курсам «Алгоритмы» и «Базы данных».&lt;/li&gt;
+&lt;li&gt;Участвовал в организационном собрании факультета, где обсудили научные студенческие инициативы.&lt;/li&gt;
+&lt;li&gt;Ознакомился с платформой Academia.edu для поиска учебных материалов.&lt;/li&gt;
+&lt;li&gt;Начал работу над небольшим проектом по обработке данных из открытых источников.&lt;/li&gt;
+&lt;li&gt;Составил расписание на осенний семестр и распределил учебные приоритеты.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/04/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя была посвящена углублению в машинное обучение и подготовке к началу учебного года.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Проработал базовые алгоритмы классификации и регрессии.&lt;/li&gt;
+&lt;li&gt;Настроил окружение Jupyter Notebook для работы с учебными проектами.&lt;/li&gt;
+&lt;li&gt;Ознакомился с ResearchGate и структурировал список интересных статей.&lt;/li&gt;
+&lt;li&gt;Составил план чтения на сентябрь, включив главы из учебника по теории вероятностей.&lt;/li&gt;
+&lt;li&gt;Проанализировал примеры использования Python в обработке текстовых данных.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/03/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/03/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Сфокусировался на освоении инструментов анализа данных и математического аппарата.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Повторил основы линейной алгебры, уделив внимание работе с матрицами.&lt;/li&gt;
+&lt;li&gt;Изучил базовые операции в библиотеке NumPy.&lt;/li&gt;
+&lt;li&gt;Ознакомился с принципами работы систем управления версиями для научных проектов.&lt;/li&gt;
+&lt;li&gt;Проанализировал структуру публикаций на Google Scholar для поиска релевантных источников.&lt;/li&gt;
+&lt;li&gt;Подготовил краткий конспект по введению в машинное обучение.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/02/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Неделя прошла продуктивно, с упором на развитие практических навыков.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Решил несколько задач по динамическому программированию.&lt;/li&gt;
+&lt;li&gt;Разобрался с работой Git и оформлением проектов на GitHub.&lt;/li&gt;
+&lt;li&gt;Просмотрел лекции по основам теории графов и выполнил практические задания.&lt;/li&gt;
+&lt;li&gt;Проанализировал статьи из eLibrary по теме «алгоритмы оптимизации».&lt;/li&gt;
+&lt;li&gt;Начал планировать возможные темы для будущих курсовых работ.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://khaled-sammoura.github.io/post/01/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе сосредоточился на подготовке к предстоящему семестру.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Повторил основные принципы работы с массивами и рекурсией в курсе «Алгоритмы и структуры данных».&lt;/li&gt;
+&lt;li&gt;Изучил основы LaTeX для оформления математических текстов и отчётов.&lt;/li&gt;
+&lt;li&gt;Ознакомился с возможностями Mendeley для управления источниками литературы.&lt;/li&gt;
+&lt;li&gt;Продолжил чтение научной статьи о применении нейронных сетей в обработке изображений.&lt;/li&gt;
+&lt;li&gt;Систематизировал свои учебные материалы в цифровом формате.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

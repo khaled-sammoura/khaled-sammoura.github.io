@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science | My Site</title>
+    <link>https://khaled-sammoura.github.io/en/tags/computer-science/</link>
+      <atom:link href="https://khaled-sammoura.github.io/en/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://khaled-sammoura.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Computer Science</title>
+      <link>https://khaled-sammoura.github.io/en/tags/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://khaled-sammoura.github.io/en/post/02/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://khaled-sammoura.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;weekly-summary&#34;&gt;Weekly Summary&lt;/h2&gt;
+&lt;p&gt;This week was productive, with a focus on developing practical skills.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solved several problems in dynamic programming.&lt;/li&gt;
+&lt;li&gt;Learned how Git works and set up project repositories on GitHub.&lt;/li&gt;
+&lt;li&gt;Watched lectures on the basics of graph theory and completed practical exercises.&lt;/li&gt;
+&lt;li&gt;Analyzed articles from eLibrary on the topic of “optimization algorithms.”&lt;/li&gt;
+&lt;li&gt;Started planning potential topics for future coursework.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
